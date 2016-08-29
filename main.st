@@ -8,3 +8,5 @@ FileStream stdout << 'Packages installed'; lf.
 "package: 'HelloWorldApp';"
 
 
+
+Smalltalk snapshot: true andQuit: true.
